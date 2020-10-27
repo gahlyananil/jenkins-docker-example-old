@@ -1,3 +1,3 @@
 FROM busybox
 USER root
-RUN adduser -D akumar
+RUN adduser -D anil
